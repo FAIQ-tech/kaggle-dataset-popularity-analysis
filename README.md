@@ -1,35 +1,39 @@
 # 📊 Kaggle Dataset Popularity Analysis
 
-*Goal:* Analyze 10 popular datasets on Kaggle to understand what makes a dataset popular using features like Upvotes, Medals, Usability, and Date.
-
-## 🔍 Dataset
-
-Manually selected top 10 datasets from Kaggle based on upvotes. Columns used:
-
-- *Dataset Name*
-- *Upvotes*
-- *Medals*
-- *Usability*
-- *Date Published*
-
-## 📈 Tools Used
-
-- Google Sheets (for data sorting, cleaning, and chart creation)
-
-## 📊 Insights
-
-- Datasets with high upvotes often had:
-  - A *Gold medal*
-  - *High usability score* (9–10)
-  - Were shared *recently* or had *broad interest topics*
-- Charts created to compare dataset popularity
-
-## 🧠 What I Learned
-
-- Basics of data cleaning and sorting
-- How to visualize data effectively
-- Key features that influence dataset popularity on Kaggle
+This project explores *what makes a dataset popular on Kaggle* — analyzing metrics like votes, usability, and visibility to understand success factors on the world’s largest data platform.
 
 ---
 
-✅ This is part of my *Google Data Analytics Project Series* to build real-world portfolio work for my U.S. college application.
+## 📈 Visualization
+Here’s the visual analysis created in Google Sheets 👇  
+
+[![Kaggle Dataset Chart](./kaggle_chart.png)](https://github.com/FAIQ-tech/kaggle-dataset-popularity-analysis/blob/main/WhatsApp%20Image%202025-07-31%20at%2013.00.46_1c149a24.jpg)
+
+(The chart visualizes the relationship between votes, dataset categories, and usability ratings.)
+
+---
+
+## 🔍 Project Overview
+- *Dataset Source:* Kaggle  
+- *Tools Used:* Google Sheets (sorting, filtering, chart creation)  
+- *Goal:* Identify what drives a dataset’s popularity on Kaggle.
+
+---
+
+## 💡 Insights
+- 📈 Datasets with high usability and relevance get more votes.  
+- 🧠 Simpler, well-documented datasets attract more engagement.  
+- 🏆 Categories like Machine Learning and AI dominate the popularity chart.  
+
+---
+
+## 🧰 Skills Applied
+- Data cleaning & spreadsheet visualization  
+- Analytical thinking  
+- Interpretation of popularity metrics  
+- Presentation of insights through charts
+
+---
+
+## 🔗 About
+Part of my *Google Data Analytics Project Series*, designed to apply real-world data exploration and visualization skills hands-on.
