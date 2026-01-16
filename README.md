@@ -7,7 +7,9 @@ This project explores *what makes a dataset popular on Kaggle* — analyzing met
 ## 📈 Visualization
 Here’s the visual analysis created in Google Sheets 👇  
 
-[![Kaggle Dataset Chart](./kaggle_chart.png)](https://github.com/FAIQ-tech/kaggle-dataset-popularity-analysis/blob/main/WhatsApp%20Image%202025-07-31%20at%2013.00.46_1c149a24.jpg)
+[![Kaggle Dataset Chart]
+
+![WhatsApp Image 2025-07-31 at 13 00 46_1c149a24](https://github.com/user-attachments/assets/b712637e-37a3-4f23-ae3a-ac63b308863d)
 
 (The chart visualizes the relationship between votes, dataset categories, and usability ratings.)
 
